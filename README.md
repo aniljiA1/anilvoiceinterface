@@ -22,7 +22,7 @@ A simple **React + TypeScript + Vite** application that records audio from the u
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+   git hub link : https://github.com/aniljiA1/anilvoiceinterface.git
    cd <your-repo>
 
 
