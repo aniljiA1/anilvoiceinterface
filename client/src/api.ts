@@ -3,7 +3,7 @@
 // Function to start a new session with the backend
 export async function startSession() {
   try {
-    const response = await fetch("http://localhost:5000/session", {
+    const response = await fetch("https://anilvoiceinterface-1.onrender.com", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
